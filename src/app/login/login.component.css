@@ -1,0 +1,18 @@
+.form-control.ng-touched.ng-invalid {
+    border: 1px solid red;
+}
+.form-control.ng-touched.ng-valid {
+    border: 1px solid green;
+}
+form{
+  border:1px solid #fff;
+  border-radius: 5%;
+  height: 300px;
+  padding:50px;
+}
+h1{
+  color:whitesmoke;
+}
+label{
+  color:bisque;
+}
