@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # LoginApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.1.
@@ -24,13 +23,4 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
-# angular7Firebase
-This is firebase login and angular7
->>>>>>> b0c89ec48acea1e39ec6e3a6ce91d2aa1deec08e
-=======
-# AngularfirebaseProject
->>>>>>> 277afa0b09ed01444b6de3fa26e4fcef60774831
